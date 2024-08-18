@@ -1,0 +1,15 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.img-container{
+    width: 20%;
+    height: auto;
+    padding: 10px;
+    margin: 15px;
+}
+
+.lists{
+    display: flex;
+}
+
